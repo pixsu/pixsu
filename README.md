@@ -2,9 +2,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angelo Timothy L. Picart
 ================================================================================================================================================
 
-* 🌍  I'm based in Philippines
+* 🌍  I'm from Philippines
 * ✉️  You can contact me at [tim.picart@gmail.com](mailto:tim.picart@gmail.com)
-* 🧠  I'm learning Java and Python
+* 🧠  I'm currently learning Java and Python
 * ⚡  I'm a First year BSIT student
 
 <a href="https://www.github.com/pixsu" target="_blank" rel="noreferrer"><img
