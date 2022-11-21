@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Gelo, a College freshman from the Philippines👩‍🚀</div>  
+### <div align="center">Hey! I'm Gelo👩‍🚀</div>  
   
 
 - 🏴‍☠️ Picart, Angelo Timothy Lim  
   
 
--  🧠 I’m currently learning Java, Python, HTML, and CSS🖥️  
+-  🧠 Java, Python, HTML, and CSS🖥️  
   
 
 - 📬 Email: tim.picart@gmail.com  
@@ -18,25 +18,6 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -68,12 +49,8 @@
 <br/>  
 
 
-## Recent
+
   
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=e1g5qoydpcygmljamy76zrsas&cover_image=true&theme=default&show_offline=false&bar_color=17e114&bar_color_cover=true" /></div>  
 
 <br/>  
 
