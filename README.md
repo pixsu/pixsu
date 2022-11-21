@@ -14,7 +14,7 @@
 
     
 
-## Connect with me  
+## Connect with me: 
 <div align="center">
 <a href="https://github.com/pixsu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -34,7 +34,7 @@
 
 <br/>  
 
-### GitHub Highlights: :goberserk::
+### GitHub Highlights: 🌀
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixsu&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
@@ -43,7 +43,7 @@
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=pixsu&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 
