@@ -34,6 +34,19 @@
 
 <br/>  
 
+### GitHub Highlights: :goberserk::
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixsu&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixsu&theme=material-palenight"/>
+</a>
+
+### Github Activity: 🔥 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+
+
+
 
 
  
