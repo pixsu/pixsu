@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Gelo,+18+years+old;Information+Technology;1st-year+College+student;)](https://git.io/typing-svg)
 
   
-  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=pixsu&&style=flat-square" align="center" />
+  <div align="left">
+<img src="https://komarev.com/ghpvc/?username=pixsu&&style=flat-square" align="left" />
 </div> 
 
 - 🏴‍☠️ Picart, Angelo Timothy Lim  
