@@ -2,26 +2,18 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Carl+Casta%C3%B1as%2C+20+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Gelo,+18+years+old;Information+Technology;1st-year+College+student;)](https://git.io/typing-svg)
 
   
-  
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=pixsu&&style=flat-square" align="center" />
+</div> 
 
 - 🏴‍☠️ Picart, Angelo Timothy Lim  
   
-
--  🧠 Java, Python, HTML, and CSS🖥️  
-  
-
 - 📬 Email: tim.picart@gmail.com  
   
-
-<br/>  
-
-
-
 <br/>  
 
 
@@ -50,12 +42,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pixsu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-
-  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pixsu&&style=flat-square" align="center" />
