@@ -38,6 +38,7 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixsu&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
+<b/>
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixsu&theme=material-palenight"/>
 </a>
