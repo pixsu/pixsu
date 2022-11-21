@@ -6,12 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Gelo,+18+years+old;Information+Technology;1st-year+College+student;)](https://git.io/typing-svg)
 
   
-  <div align="left">
-<img src="https://komarev.com/ghpvc/?username=pixsu&&style=flat-square" align="left" />
-</div> 
-
-<br/>
-
 - 🏴‍☠️ Picart, Angelo Timothy Lim  
   
 - 📬 Email: tim.picart@gmail.com  
@@ -40,10 +34,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pixsu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
  
 
 <div align="center">
