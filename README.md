@@ -40,16 +40,6 @@
 </a>
 <b/>
 
-
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=pixsu&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-
-
-
-
-
- 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pixsu&&style=flat-square" align="center" />
 </div>  
