@@ -34,16 +34,7 @@
 
 <br/>  
 
-### GitHub Highlights: 🌀
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixsu&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<b/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pixsu&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
