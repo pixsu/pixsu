@@ -2,9 +2,6 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%;" />
 </div>
 
-<table>
-<tr>
-<td width="70%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=gelo)](https://git.io/typing-svg)
 
@@ -17,11 +14,7 @@ Hi! I’m **Gelo**
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gegegelo_)
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20204537/pixsu)
 
-</td>
-<td width="30%">
+
 
 <img src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="200px" />
 
-</td>
-</tr>
-</table>
