@@ -5,10 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=+gelo;)](https://git.io/typing-svg)
 
-  
-- 🏴‍☠️ Picart, Angelo Timothy Lim  
-  
-- 📬 Email: tim.picart@gmail.com  
+<img align="right" src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="30%">
+- Picart, Angelo Timothy Lim  
   
 <br/>  
 
