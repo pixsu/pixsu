@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="200px" />
+  <img src="nailongdance.gif" width="500px" />
 </p>
-
-<p align="center">
-  <img src="nailong.jpg" width="100px" />
-</p>
-
 
 <p align="center">
   <img src="https://github.com/codedex-io/.github/assets/65576812/8613313f-42c0-4d87-ab53-c7d61ea92be3" width="50px">
